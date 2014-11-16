@@ -1,14 +1,16 @@
 #
-#  README.txt
-#
-# This directory contains an example IDL routine for fitting Nuker profiles to Hubble Space Telescope (ACS) images of Atlas3D galaxies. The origianl routines were developed for the HST/ACS Coma Cluster Treasury Survey and modified by the original author (Arna Karick, June 2012) to analyse the HST galaxy images presented in "ATLAS3D  Project – XXIII. Angular momentum and nuclear surface brightness profiles." (Krajnovic, D., Karick, A.M., Davies, R.L, Thorsten, N., Sarzi, M, Emsellem, E., Cappellari, M., et al. 2013, MNRAS, 433, 2812, doi: 10.1093/mnras/stt905)
-#
-#
-# We would appreciate it if researchers using this script, or modifications of the script, acknowledge the original  authors. 
-#
-# Original version: Karick, A.M. and Carter, D. (HST Coma Cluster Treasury Survey Team), June 2011.
-# This modified version: Karick, A.M., June 2012.
-#
+
+============
+ README.txt
+============
+
+This directory contains an example IDL routine for fitting Nuker profiles to Hubble Space Telescope (ACS) images of Atlas3D galaxies. The origianl routines were developed for the HST/ACS Coma Cluster Treasury Survey and modified by the original author (Arna Karick, June 2012) to analyse the HST galaxy images presented in "ATLAS3D  Project – XXIII. Angular momentum and nuclear surface brightness profiles." (Krajnovic, D., Karick, A.M., Davies, R.L, Thorsten, N., Sarzi, M, Emsellem, E., Cappellari, M., et al. 2013, MNRAS, 433, 2812, doi: 10.1093/mnras/stt905)
+
+We would appreciate it if researchers using this script, or modifications of the script, acknowledge the original  authors. 
+
+Original version: Karick, A.M. and Carter, D. (HST Coma Cluster Treasury Survey Team), June 2011.
+This modified version: Karick, A.M., June 2012.
+
 
 1. ISOPHOTE FITTING (IRAF)
 --------------------------
