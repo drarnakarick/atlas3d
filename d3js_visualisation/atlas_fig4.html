@@ -3,7 +3,7 @@
   <script src="http://dimplejs.org/dist/dimple.v2.1.0.min.js"></script>
   <script type="text/javascript">
     var svg = dimple.newSvg("#chartContainer", 800, 900);
-    d3.csv("table_data_test.csv", function (data) {
+    d3.csv("atlas_data.csv", function (data) {
       var myChart = new dimple.chart(svg, data);
       myChart.setBounds(95, 25, 600, 445);
       var x = myChart.addMeasureAxis("x", "eps_e");
