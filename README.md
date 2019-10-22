@@ -1,7 +1,9 @@
+# README – THe ATLAS3D Project –XXII
 
-============
- README.txt
-============
+This directory contains sample data, analysis, code from my research at University of Oxford.  
+
+
+### IDL routine for fitting Nuker Profiles
 
 This directory contains an example IDL routine for fitting Nuker
 profiles to Hubble Space Telescope (ACS) images of Atlas3D
@@ -30,8 +32,7 @@ REQUIREMENTS:
 - IDLAstro: http://idlastro.gsfc.nasa.gov
 
 
-1. ISOPHOTE FITTING (IRAF)
---------------------------
+**1. ISOPHOTE FITTING (IRAF)**
 
 The following is a brief summary of the method used to generate galaxy
 isophotes (refer to 'Section 3.1 Surface brightness profiles' in
@@ -60,8 +61,7 @@ generate isphotes.
 9. Create isophotes for this images using the previous isphote table (NGCNUM_FILT.tab) and mask files. 
 10. PSF de-convolution and filter calibration is dealt with in the IDL script.
 
-2. FITTING ROUTINE (IDL)
--------------------------
+**2. FITTING ROUTINE (IDL)**
 
 This routine uses the IDL routine mpfitfun.pro:
 http://www.physics.wisc.edu/~craigm/idl/down/mpfitfun.pro by Craig
