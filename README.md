@@ -1,4 +1,4 @@
-# README – THe ATLAS3D Project –XXII
+# The ATLAS3D Project – XXII
 
 This directory contains sample data, analysis, code from my research at University of Oxford.  
 
