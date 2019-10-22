@@ -1,14 +1,14 @@
 # The ATLAS3D Project – XXII
 
-This directory contains sample data, and code from my research at University of Oxford.
+This directory contains sample data and code from my research at University of Oxford.
 
-The published journal paper:https://arxiv.org/abs/1305.4973
+Published journal paper:https://arxiv.org/abs/1305.4973
 
 ### IDL routine for fitting Nuker Profiles
 
 This directory contains an example IDL routine for fitting Nuker
 profiles to Hubble Space Telescope (ACS) images of Atlas3D
-galaxies. The origianl routines were developed for the HST/ACS Coma
+galaxies. The original routines were developed for the HST/ACS Coma
 Cluster Treasury Survey and modified by the original author (Arna
 Karick, June 2012) to analyse the HST galaxy images presented in
 "ATLAS3D Project – XXIII. Angular momentum and nuclear surface
