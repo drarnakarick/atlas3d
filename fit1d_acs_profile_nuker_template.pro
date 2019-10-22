@@ -3,10 +3,9 @@
 ;   fit1d_acs_profile_nuker_template.pro
 ;
 ; AUTHOR:
-;   Arna Karick, Swinburne University of Technology, Hawthorn,
-;   Australia. 
+;   Arna Karick, Astrophysics Group, University of Oxford, UK.
 ;
-; CONTACT: akarick@swin.edu.au, Twitter @drarnakarick
+; CONTACT: See www.arnakarick.com (Twitter @drarnakarick)
 ;
 ; ORIGINAL VERSION: Karick, A.M. and Carter, D. (HST Coma Cluster
 ;   Treasury Survey Team), June 2011. 
@@ -41,7 +40,7 @@ pro fit1d_acs_profile_nuker,ps=ps
 
 close, /all & erase
 
-; --------------------------------- read in ACSVCS profiles and print ---------------------
+; --------------------------------- read in Atlas3D profiles and print ---------------------
 ;                                   calibrated parameters to a new file 
 fileA='NGCNUM_FILT.dat'
   readcol,fileA, $
