@@ -1,7 +1,8 @@
 # The ATLAS3D Project – XXII
 
-This directory contains sample data, analysis, code from my research at University of Oxford.  
+This directory contains sample data, and code from my research at University of Oxford.
 
+The published journal paper:https://arxiv.org/abs/1305.4973
 
 ### IDL routine for fitting Nuker Profiles
 
